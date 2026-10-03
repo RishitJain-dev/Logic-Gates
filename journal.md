@@ -1,4 +1,4 @@
----
+[---
 title: "Logic Gates"
 github: "https://github.com/RishitJain-dev/Logic-Gates"
 description: "A physical magnetically connecting set of logic gates, inputs and outputs to simulate logic gates in real life!"
@@ -39,3 +39,4 @@ I made more PCBs for less important features like batteries and LEDs. This is cu
 Timelapse: https://lapse.hackclub.com/timelapse/kFXcmq2NDUBk
 
 **Total time spent: 2h**
+](https://lapse.hackclub.com/timelapse/QnF8WpUk_1_Z)
